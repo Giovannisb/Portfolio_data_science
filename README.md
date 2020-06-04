@@ -15,5 +15,5 @@ Estudante de análise e desenvolvimento de sistemas no IFPE e se especializando 
 * [Portifólio](https://giovannisb.github.io/portifolio.html)
 * [LinkedIn](https://www.linkedin.com/in/giovanni-s%C3%A1-barreto-7a0246b8/)
 
-##Projetos:
+## Projetos:
 Veja os artigos dos meus projetos:
