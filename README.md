@@ -17,3 +17,5 @@ Estudante de análise e desenvolvimento de sistemas no IFPE e se especializando 
 
 ## Projetos:
 Veja os artigos dos meus projetos:
+
+* **Análise dos dados do Airbnb de Los Angeles:** https://bit.ly/372Tlxf
