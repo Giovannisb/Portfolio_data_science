@@ -12,7 +12,7 @@ Estudante de análise e desenvolvimento de sistemas no IFPE e se especializando 
 **Background em:** Python, Django, MySQL, MongoDB, Machine Learning, Node.js, JavaScript. 
 
 **Links:**
-* [Portifólio](https://giovannisb.github.io/portifolio.html)
+* [Portfólio](https://giovannisb.github.io/portifolio.html)
 * [LinkedIn](https://www.linkedin.com/in/giovanni-s%C3%A1-barreto-7a0246b8/)
 
 ## Projetos:
