@@ -19,3 +19,4 @@ Estudante de análise e desenvolvimento de sistemas no IFPE e se especializando 
 Veja os artigos dos meus projetos:
 
 * **Análise dos dados do Airbnb de Los Angeles:** https://bit.ly/372Tlxf
+* **Análisando os dados da violência no rio de janeiro relacionada a roubos e furtos de veículos:** https://bit.ly/3frnRnc
