@@ -22,3 +22,4 @@ Veja os artigos dos meus projetos:
 * **Análisando os dados da violência no rio de janeiro relacionada a roubos e furtos de veículos:** https://bit.ly/3frnRnc
 * **Coronavírus. Uma breve análise do dados a respeito da mais nova pandemia mundial.:** https://bit.ly/2YbF1iX
 * **Detecção de fraudes de cartões de crédito com Machine learning.:** https://bit.ly/2BIFcJL
+* **Predição de churn rate com machine learning.:** https://bit.ly/2WgfCDm 
