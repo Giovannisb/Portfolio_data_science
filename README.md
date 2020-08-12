@@ -23,3 +23,4 @@ Veja os artigos dos meus projetos:
 * **Coronavírus. Uma breve análise do dados a respeito da mais nova pandemia mundial.:** https://bit.ly/2YbF1iX
 * **Detecção de fraudes de cartões de crédito com Machine learning.:** https://bit.ly/2BIFcJL
 * **Predição de churn rate com machine learning.:** https://bit.ly/2WgfCDm 
+* **Competição Kaggle - Titanic.:** https://bit.ly/2XUcSMW
