@@ -24,3 +24,4 @@ Veja os artigos dos meus projetos:
 * **Detecção de fraudes de cartões de crédito com Machine learning.:** https://bit.ly/2BIFcJL
 * **Predição de churn rate com machine learning.:** https://bit.ly/2WgfCDm 
 * **Competição Kaggle - Titanic.:** https://bit.ly/2XUcSMW
+* **API de classificação de imagens de animais.:** https://bit.ly/2EouqKl
